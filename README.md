@@ -18,5 +18,5 @@
     - Navigate to the directory where the Python file is located
     - Run the following command:
         ```
-        python filename.py
+        python main.py
         ```
